@@ -1,0 +1,58 @@
+[
+  {
+    "package": "gofastr",
+    "oncran": true
+  },
+  {
+    "package": "lexicon",
+    "oncran": true
+  },
+  {
+    "package": "numform",
+    "oncran": true
+  },
+  {
+    "package": "pacman",
+    "oncran": true
+  },
+  {
+    "package": "qdap",
+    "oncran": true
+  },
+  {
+    "package": "qdapDictionaries",
+    "oncran": true
+  },
+  {
+    "package": "qdapRegex",
+    "oncran": true
+  },
+  {
+    "package": "qdapTools",
+    "oncran": true
+  },
+  {
+    "package": "sentimentr",
+    "oncran": true
+  },
+  {
+    "package": "textclean",
+    "oncran": true
+  },
+  {
+    "package": "textreadr",
+    "oncran": true
+  },
+  {
+    "package": "textshape",
+    "oncran": true
+  },
+  {
+    "package": "textstem",
+    "oncran": true
+  },
+  {
+    "package": "wakefield",
+    "oncran": true
+  }
+]
