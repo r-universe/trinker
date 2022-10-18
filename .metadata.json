@@ -40,10 +40,6 @@
     "oncran": true
   },
   {
-    "package": "textreadr",
-    "oncran": true
-  },
-  {
     "package": "textshape",
     "oncran": true
   },

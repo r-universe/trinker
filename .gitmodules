@@ -53,11 +53,6 @@
 	url = https://github.com/trinker/textclean
 	shallow = true
 	registered = true
-[submodule "textreadr"]
-	path = textreadr
-	url = https://github.com/trinker/textreadr
-	shallow = true
-	registered = true
 [submodule "textshape"]
 	path = textshape
 	url = https://github.com/trinker/textshape
