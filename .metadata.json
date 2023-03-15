@@ -1,30 +1,6 @@
 [
   {
-    "package": "gofastr",
-    "oncran": true
-  },
-  {
-    "package": "lexicon",
-    "oncran": true
-  },
-  {
-    "package": "numform",
-    "oncran": true
-  },
-  {
-    "package": "pacman",
-    "oncran": true
-  },
-  {
-    "package": "qdap",
-    "oncran": true
-  },
-  {
-    "package": "qdapDictionaries",
-    "oncran": true
-  },
-  {
-    "package": "qdapRegex",
+    "package": "sentimentr",
     "oncran": true
   },
   {
@@ -32,15 +8,7 @@
     "oncran": true
   },
   {
-    "package": "sentimentr",
-    "oncran": true
-  },
-  {
-    "package": "textclean",
-    "oncran": true
-  },
-  {
-    "package": "textshape",
+    "package": "numform",
     "oncran": true
   },
   {
@@ -48,7 +16,39 @@
     "oncran": true
   },
   {
+    "package": "qdap",
+    "oncran": true
+  },
+  {
+    "package": "textshape",
+    "oncran": true
+  },
+  {
     "package": "wakefield",
+    "oncran": true
+  },
+  {
+    "package": "lexicon",
+    "oncran": true
+  },
+  {
+    "package": "qdapDictionaries",
+    "oncran": true
+  },
+  {
+    "package": "pacman",
+    "oncran": true
+  },
+  {
+    "package": "textclean",
+    "oncran": true
+  },
+  {
+    "package": "gofastr",
+    "oncran": true
+  },
+  {
+    "package": "qdapRegex",
     "oncran": true
   }
 ]
