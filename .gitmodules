@@ -1,70 +1,43 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "gofastr"]
 	path = gofastr
 	url = https://github.com/trinker/gofastr
-	shallow = true
-	registered = true
 [submodule "lexicon"]
 	path = lexicon
 	url = https://github.com/trinker/lexicon
-	shallow = true
-	registered = true
 [submodule "numform"]
 	path = numform
 	url = https://github.com/trinker/numform
-	shallow = true
-	registered = true
 [submodule "pacman"]
 	path = pacman
 	url = https://github.com/trinker/pacman
-	shallow = true
-	registered = true
 [submodule "qdap"]
 	path = qdap
 	url = https://github.com/trinker/qdap
-	shallow = true
-	registered = true
 [submodule "qdapDictionaries"]
 	path = qdapDictionaries
 	url = https://github.com/trinker/qdapdictionaries
-	shallow = true
-	registered = true
 [submodule "qdapRegex"]
 	path = qdapRegex
 	url = https://github.com/trinker/qdapregex
-	shallow = true
-	registered = true
 [submodule "qdapTools"]
 	path = qdapTools
 	url = https://github.com/trinker/qdaptools
-	shallow = true
-	registered = true
 [submodule "sentimentr"]
 	path = sentimentr
 	url = https://github.com/trinker/sentimentr
-	shallow = true
-	registered = true
 [submodule "textclean"]
 	path = textclean
 	url = https://github.com/trinker/textclean
-	shallow = true
-	registered = true
 [submodule "textshape"]
 	path = textshape
 	url = https://github.com/trinker/textshape
-	shallow = true
-	registered = true
 [submodule "textstem"]
 	path = textstem
 	url = https://github.com/trinker/textstem
-	shallow = true
-	registered = true
 [submodule "wakefield"]
 	path = wakefield
 	url = https://github.com/trinker/wakefield
-	shallow = true
-	registered = true
