@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gofastr"]
-	path = gofastr
-	url = https://github.com/trinker/gofastr
 [submodule "lexicon"]
 	path = lexicon
 	url = https://github.com/trinker/lexicon
